@@ -164,15 +164,15 @@ import {
       testimonial:
         "Displays remarkable dedication and passion, delivering work of the highest quality on every project.",
       name: "Sanamdeep Singh",
-      designation: "Mentor",
+      designation: "SDE",
       company: "Algozenith",
       
     },
     {
       testimonial:
         "I've never met a developer who truly cares about his passion and dream  like Bishal does.",
-      name: "Md Amir Khan",
-      designation: "Student",
+      name: "Sudip De",
+      designation: "Mentor",
       company: "AEC",
       
     },
